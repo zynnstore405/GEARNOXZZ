@@ -1,3 +1,0 @@
-{
- "tokens":["TOKEN1","TOKEN2"]
-}
